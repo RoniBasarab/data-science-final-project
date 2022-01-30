@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/cache
+/geckodriver
+Hotels.html
+output_file.html
+HotelProjectPythonHIT.html
+project.ipynb
